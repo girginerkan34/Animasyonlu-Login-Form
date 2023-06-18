@@ -1,3 +1,3 @@
 # Animasyonlu-Login-Form
 
-![](animasyon.gif)
+![](video.gif)
